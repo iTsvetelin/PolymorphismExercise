@@ -5,7 +5,7 @@ VisualStudioVersion = 15.0.27130.2036
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Vehicles", "Vehicles\Vehicles.csproj", "{66AFE084-0B65-43CE-BA26-0EE8DC5FF3C9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vehicle2", "Vehicle2\Vehicle2.csproj", "{74C87FC1-84C5-446A-97F1-0D621FEC76CC}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vehicles2", "Vehicles2\Vehicles2.csproj", "{4558252E-72A3-4E88-B7A6-1053B35AE8B3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,10 +17,10 @@ Global
 		{66AFE084-0B65-43CE-BA26-0EE8DC5FF3C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{66AFE084-0B65-43CE-BA26-0EE8DC5FF3C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{66AFE084-0B65-43CE-BA26-0EE8DC5FF3C9}.Release|Any CPU.Build.0 = Release|Any CPU
-		{74C87FC1-84C5-446A-97F1-0D621FEC76CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{74C87FC1-84C5-446A-97F1-0D621FEC76CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{74C87FC1-84C5-446A-97F1-0D621FEC76CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{74C87FC1-84C5-446A-97F1-0D621FEC76CC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4558252E-72A3-4E88-B7A6-1053B35AE8B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4558252E-72A3-4E88-B7A6-1053B35AE8B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4558252E-72A3-4E88-B7A6-1053B35AE8B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4558252E-72A3-4E88-B7A6-1053B35AE8B3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

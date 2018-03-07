@@ -43,7 +43,7 @@ namespace Vehicles
             }
             else
             {
-                this.TankCapacity -= fuelNeeded;
+                this.FuelQuantity -= fuelNeeded;
                 Console.WriteLine($"Bus travelled {distance} km");
             }
         }
